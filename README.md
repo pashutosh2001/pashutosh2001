@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- 
 **pashutosh2001/pashutosh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ 
 # 💫About Me :
-🔭 I’m currently working as a freelancer.
-🌱 I’m currently learning more about Flutter.
+- 🔭 I’m currently working as a freelancer.
+- 🌱 I’m currently learning more about Flutter.
 👯 I’m looking for internships and jobs.
 💬 Ask me anything about Flutter.
 📫 How to reach me: LinkedIn - pashutosh1957, Email - pashutosh1957@gmail.com
