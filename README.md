@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # 💫About Me :
 - 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning more about Flutter.
-👯 I’m looking for internships and jobs.
-💬 Ask me anything about Flutter.
-📫 How to reach me: LinkedIn - pashutosh1957, Email - pashutosh1957@gmail.com
-😄 Pronouns: He/His
-⚡ Fun fact: I spend the whole day with my laptop.
+- 👯 I’m looking for internships and jobs.
+- 💬 Ask me anything about Flutter.
+- 📫 How to reach me: LinkedIn - pashutosh1957, Email - pashutosh1957@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend the whole day with my laptop.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ashutosh__pandey__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pashutosh1957) 
