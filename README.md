@@ -1,4 +1,4 @@
-## Bonjour, I'm [Ashutosh Pandey!] {https://www.linkedin.com/in/pashutosh1957/}
+## Bonjour, I'm [Ashutosh Pandey!](https://www.linkedin.com/in/pashutosh1957/)
 
 <!-- 
 **pashutosh2001/pashutosh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
