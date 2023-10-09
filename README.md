@@ -16,9 +16,9 @@ Here are some ideas to get you started:
  -->
  
 # 💫About Me :
-- 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning more about Flutter.
-- 👯 I’m looking for internships and jobs.
+- 🔭 I’m currently working as a Sr. Software Developer at ENTIGRITY.
+- 🌱 I’m currently learning more about Flutter and Go.
+- 👯 I’m looking for jobs.
 - 💬 Ask me anything about Flutter.
 - 📫 How to reach me: LinkedIn - pashutosh1957, Email - pashutosh1957@gmail.com
 - 😄 Pronouns: He/His
